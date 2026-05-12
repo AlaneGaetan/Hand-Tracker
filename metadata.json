@@ -1,0 +1,8 @@
+{
+  "name": "Hand Tracking Dashboard",
+  "description": "A web-based hardware-style dashboard that tracks your hand movements and detects pointing directions using MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
